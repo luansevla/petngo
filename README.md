@@ -1,2 +1,2 @@
-# pet & go
+# pet & go 🐶
 Pet Shop Angular
