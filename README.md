@@ -1,2 +1,2 @@
-# petngo
+# pet & go
 Pet Shop Angular
